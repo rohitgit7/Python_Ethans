@@ -1,0 +1,13 @@
+
+
+********* 2018-11-26 22:09:46.331600 ***********
+Comparing data structure type: Dictionary
+Comparing data structure type: List
+Both lists are equal
+Comparing data structure type: List
+Both lists are equal
+Comparing data structure type: List
+Both lists are equal
+Comparing data structure type: String
+Both strings are equal
+Both dictionaries are equal
