@@ -11,3 +11,15 @@ Both lists are equal
 Comparing data structure type: String
 Both strings are equal
 Both dictionaries are equal
+
+********* 2018-11-26 22:45:00.663849 ***********
+Comparing data structure type: Dictionary
+Comparing data structure type: List
+Both lists are equal
+Comparing data structure type: List
+Both lists are equal
+Comparing data structure type: List
+Both lists are equal
+Comparing data structure type: String
+Both strings are equal
+Both dictionaries are equal
